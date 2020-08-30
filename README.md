@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, it's Vince here 👨🏼‍💻  Welcome to my GitHub profile! 👋
+
+It's still a bit empty here... but I'm on it!
 
 <!--
 **vpsteinmann/vpsteinmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
